@@ -1,0 +1,2 @@
+class AdoptionException(Exception):
+    pass
